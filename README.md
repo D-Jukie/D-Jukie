@@ -46,7 +46,7 @@ I am a passionate Fullstack Developer dedicated to building end-to-end digital p
 
 ---
 
-## 📊 GitHub Analytics (Official Style)
+## 📊 GitHub Analytics
 *Statistical insights of my coding activity and contributions.*
 
 <div align="center">
