@@ -52,7 +52,7 @@ I am a passionate Fullstack Developer dedicated to building end-to-end digital p
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=D-Jukie&theme=radical" alt="GitHub Profile Details" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=D-Jukie&theme=radical" alt="Most Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D-Jukie&theme=radical" alt="All Languages Used" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D-Jukie&theme=radical" alt="Overall Stats" />
 </div>
 
